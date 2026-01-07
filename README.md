@@ -1,117 +1,153 @@
 <!-- ================= HERO ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vikas%20Prasad&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=220&section=header&text=Vikas%20Prasad&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 <p align="center">
-<b>Full-Stack Engineer • ECE Background • Product-Focused Builder</b><br/>
-Engineering systems where <b>software meets fundamentals</b>
+<b>Full-Stack Engineer • Embedded Systems Enthusiast • ECE Core</b><br/>
+Bridging <b>hardware fundamentals</b> with <b>production-grade software</b>
 </p>
 
 </div>
 
 ---
 
-## 🧠 ENGINEERING IDENTITY
+## 🧭 ENGINEERING POSITIONING
 
-- 🎓 **Electronics & Communication Engineering** foundation  
-- 🧩 Strong grasp of **systems, logic, data flow, and optimization**
-- ⚙️ Full-Stack development with **clean architecture**
-- 🎨 UI/UX with emphasis on **usability, hierarchy, and motion**
-- 🔐 Security-aware backend design
-- 🚀 Product mindset — building things meant to scale and last
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Discipline-Electronics%20%26%20Communication-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Systems%20%7C%20Architecture%20%7C%20UX-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Mindset-Product%20Engineering-critical?style=flat-square" />
 
-## 🔬 ECE CORE + SOFTWARE INTERSECTION
-
-**Core Subjects (ECE):**
-- Digital Electronics & Logic Design  
-- Microprocessors & Microcontrollers  
-- Signals & Systems  
-- Communication Systems  
-- Embedded Systems Fundamentals  
-
-**How it reflects in my software work:**
-- Structured thinking → clean controllers & services  
-- Signal flow → frontend data pipelines & state flow  
-- System design → scalable backend architecture  
-- Optimization mindset → performance-focused UI & APIs  
+</div>
 
 ---
 
-## 🛠️ TECHNOLOGY STACK
+## ⚙️ SOFTWARE ENGINEERING STACK
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,php,python,c,cpp" />
+</p>
+
+**Applied For**
+- Web & backend systems  
+- Low-level logic & performance-critical components  
+- API-driven architectures  
+
+---
 
 ### Frontend Engineering
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,framer" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,framer" />
 </p>
 
-- Component-driven architecture  
-- Motion-based UX (Framer Motion)  
-- Responsive & accessible layouts  
-- Theme systems & visual consistency  
+- Component-driven UI architecture  
+- Motion as feedback (Framer Motion)  
+- Design hierarchy & spacing systems  
+- Responsive + accessibility-aware layouts  
 
 ---
 
-### Backend Engineering
+### Backend & Server-Side
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php" />
 </p>
 
-- RESTful API design  
-- JWT authentication & authorization  
-- Role-based access control  
-- Pagination, filtering, error handling  
-- Secure & scalable controllers  
+- REST API design & versioning  
+- JWT-based authentication  
+- Role-based authorization  
+- Pagination, filtering, validation  
+- Modular controllers & services  
 
 ---
 
-### Tools, Workflow & Practices
+### Tooling & Workflow
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-- Git-based workflows  
-- Clean folder & module structure  
-- API testing & debugging  
-- Maintainable, readable codebases  
+- Git-first workflows  
+- Debug-driven development  
+- Clean folder structures  
+- Maintainable codebases  
 
 ---
 
-## 🧩 REAL-WORLD PROJECTS (NOT DEMOS)
+## 🔬 ELECTRONICS & COMMUNICATION ENGINEERING (CORE)
+
+### Embedded & Controllers
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp" />
+</p>
+
+- Microcontrollers & embedded C/C++  
+- Register-level understanding  
+- GPIO, timers, interrupts  
+- Basic peripheral interfacing  
+- Controller logic & firmware structure  
+
+---
+
+### Core ECE Foundations
+<div align="center">
+
+<img src="https://img.shields.io/badge/Digital%20Electronics-Logic%20Design-blueviolet?style=flat-square" />
+<img src="https://img.shields.io/badge/Signals%20%26%20Systems-Analysis-informational?style=flat-square" />
+<img src="https://img.shields.io/badge/Communication%20Systems-Analog%20%26%20Digital-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Microprocessors-Architecture-critical?style=flat-square" />
+<img src="https://img.shields.io/badge/Embedded%20Systems-Firmware%20Basics-blue?style=flat-square" />
+
+</div>
+
+---
+
+### How ECE Shapes My Software Engineering
+
+| ECE Concept | Software Impact |
+|------------|-----------------|
+| Signal flow | Predictable data pipelines |
+| Controllers | Clean state & logic separation |
+| Timing & clocks | Performance-aware UI & APIs |
+| System blocks | Modular backend architecture |
+| Debug mindset | Root-cause driven fixes |
+
+---
+
+## 🧩 PRODUCTION-GRADE PROJECTS
 
 ### 📚 Full-Stack eBook Platform (MERN)
-**Role:** System Architect • Frontend • Backend  
+**Role:** Architecture • Frontend • Backend  
 
-**Key Capabilities:**
-- Secure authentication (JWT + roles)
-- Admin dashboard with analytics
-- eBook upload (PDF + images)
-- Category-based browsing & search
-- Motion-driven, production-ready UI
-- Robust API validation & error handling
+<p>
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20Framer%20Motion-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Backend-Node%20%7C%20Express-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square" />
+</p>
 
-**Stack:**  
-`React` `Framer Motion` `Tailwind CSS`  
-`Node.js` `Express` `MongoDB` `JWT`
-
----
-
-### 🛠 Administrative Dashboard System
-- Role-based permissions
-- User & content moderation
-- Scalable backend structure
-- Clean, enterprise-style UI
-- Data-driven overview panels
+- Secure authentication (JWT + roles)  
+- Admin dashboard with metrics  
+- PDF & image upload pipeline  
+- Category-driven discovery  
+- Motion-first, production UI  
+- Defensive API validation  
 
 ---
 
-### 🎨 Advanced Frontend Systems
-- Design-system-like components
-- Meaningful animations (not cosmetic)
-- Dark-mode friendly themes
-- Typography & spacing hierarchy
+### 🛠 Administrative Systems
+- Role-based access control  
+- User & content moderation  
+- Scalable controller architecture  
+- Enterprise-style dashboards  
+
+---
+
+### 🎨 UI-Focused Engineering
+- Design-system-like components  
+- Dark-mode compatible themes  
+- Typography & spacing discipline  
+- Animation used as UX signal  
 
 ---
 
@@ -119,9 +155,9 @@ Engineering systems where <b>software meets fundamentals</b>
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -129,9 +165,9 @@ Engineering systems where <b>software meets fundamentals</b>
 
 ## 🧠 ENGINEERING PHILOSOPHY
 
-> Good UI respects attention.  
-> Good code respects the future.  
-> Good systems respect failure.
+> Hardware teaches discipline.  
+> Software teaches scale.  
+> Good engineers respect both.
 
 ---
 
@@ -144,6 +180,6 @@ Engineering systems where <b>software meets fundamentals</b>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:243B55,100:141E30&height=80&section=footer" />
 
 </div>
