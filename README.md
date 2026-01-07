@@ -1,113 +1,149 @@
-<!-- ===== HERO SECTION ===== -->
+<!-- ================= HERO ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Vikas%20Prasad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-
-### Full-Stack Engineer • Product Builder • UI/UX Focused
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vikas%20Prasad&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 <p align="center">
-I design, build, and scale real-world web products with strong focus on  
-<b>performance, UX, clean architecture, and production readiness</b>.
+<b>Full-Stack Engineer • ECE Background • Product-Focused Builder</b><br/>
+Engineering systems where <b>software meets fundamentals</b>
 </p>
 
 </div>
 
 ---
 
-## 🧠 ENGINEERING PROFILE
+## 🧠 ENGINEERING IDENTITY
 
-- ⚙️ **Full-Stack (MERN)** with scalable architecture  
-- 🎨 UI/UX obsessed — motion, hierarchy, typography  
-- 🔐 Secure auth, role-based systems, dashboards  
-- 📦 Real-world features (uploads, admin panels, analytics)  
-- 🚀 Product mindset, not tutorial code
+- 🎓 **Electronics & Communication Engineering** foundation  
+- 🧩 Strong grasp of **systems, logic, data flow, and optimization**
+- ⚙️ Full-Stack development with **clean architecture**
+- 🎨 UI/UX with emphasis on **usability, hierarchy, and motion**
+- 🔐 Security-aware backend design
+- 🚀 Product mindset — building things meant to scale and last
 
 ---
 
-## 🛠️ CORE TECH STACK
+## 🔬 ECE CORE + SOFTWARE INTERSECTION
 
-### Frontend
+**Core Subjects (ECE):**
+- Digital Electronics & Logic Design  
+- Microprocessors & Microcontrollers  
+- Signals & Systems  
+- Communication Systems  
+- Embedded Systems Fundamentals  
+
+**How it reflects in my software work:**
+- Structured thinking → clean controllers & services  
+- Signal flow → frontend data pipelines & state flow  
+- System design → scalable backend architecture  
+- Optimization mindset → performance-focused UI & APIs  
+
+---
+
+## 🛠️ TECHNOLOGY STACK
+
+### Frontend Engineering
 <p>
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,framer" />
 </p>
 
-### Backend
+- Component-driven architecture  
+- Motion-based UX (Framer Motion)  
+- Responsive & accessible layouts  
+- Theme systems & visual consistency  
+
+---
+
+### Backend Engineering
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Tools & Infra
+- RESTful API design  
+- JWT authentication & authorization  
+- Role-based access control  
+- Pagination, filtering, error handling  
+- Secure & scalable controllers  
+
+---
+
+### Tools, Workflow & Practices
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
+- Git-based workflows  
+- Clean folder & module structure  
+- API testing & debugging  
+- Maintainable, readable codebases  
+
 ---
 
-## 🧩 FLAGSHIP PROJECTS (REAL, NOT TOY)
+## 🧩 REAL-WORLD PROJECTS (NOT DEMOS)
 
 ### 📚 Full-Stack eBook Platform (MERN)
-**Role:** Architect + Frontend Lead + Backend  
-**What makes it real:**
-- Auth system (JWT + Roles)
+**Role:** System Architect • Frontend • Backend  
+
+**Key Capabilities:**
+- Secure authentication (JWT + roles)
 - Admin dashboard with analytics
-- eBook upload (PDF, cover images)
-- Category-based filtering & search
-- Production-grade UI (motion + hierarchy)
-- Secure APIs, pagination, error handling
+- eBook upload (PDF + images)
+- Category-based browsing & search
+- Motion-driven, production-ready UI
+- Robust API validation & error handling
 
-**Tech:**  
-`React` `Framer Motion` `Tailwind` `Node.js` `Express` `MongoDB` `JWT`
+**Stack:**  
+`React` `Framer Motion` `Tailwind CSS`  
+`Node.js` `Express` `MongoDB` `JWT`
 
 ---
 
-### 🛠 Admin Dashboard System
-- Role-based access control
-- Live metrics overview
+### 🛠 Administrative Dashboard System
+- Role-based permissions
 - User & content moderation
+- Scalable backend structure
 - Clean, enterprise-style UI
-- Scalable controller architecture
+- Data-driven overview panels
 
 ---
 
-### 🎨 UI/UX Heavy Frontend Systems
-- Advanced component structuring
-- Motion-driven UX (not flashy, meaningful)
+### 🎨 Advanced Frontend Systems
+- Design-system-like components
+- Meaningful animations (not cosmetic)
 - Dark-mode friendly themes
-- Gradient systems + typography hierarchy
+- Typography & spacing hierarchy
 
 ---
 
-## 📊 ENGINEERING SIGNAL (STATS)
+## 📊 ENGINEERING SIGNAL
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🧠 DESIGN + CODE PHILOSOPHY
+## 🧠 ENGINEERING PHILOSOPHY
 
-> UI is not decoration.  
-> Animation is not noise.  
-> Code is not just syntax.  
-> **Everything must earn its place.**
+> Good UI respects attention.  
+> Good code respects the future.  
+> Good systems respect failure.
 
 ---
 
 ## 🔗 CONNECT
-
-- 🌐 Portfolio: _coming soon / add link_
+- 🌐 Portfolio: _in progress_
 - 💼 LinkedIn: _add link_
-- 📬 Email: _add email_
+- 📧 Email: _add email_
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=80&section=footer" />
 
 </div>
