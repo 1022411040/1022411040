@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Vikas Prasad
 
-<!--
-**1022411040/1022411040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 Student / Developer
+- 💻 Working with MERN stack
+- 🚀 Interested in UI/UX & Full-Stack Development
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- JavaScript | React | Node.js
+- MongoDB | Express
+- HTML | CSS | Tailwind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## 🔗 Connect with Me
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Portfolio: https://yourwebsite.com
