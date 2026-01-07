@@ -1,7 +1,7 @@
 <!-- ================= HERO ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:9D50BB&height=220&section=header&text=Vikas%20Prasad&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,50:9D4EDD,100:5A189A&height=220&section=header&text=Vikas%20Prasad&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 
 <p align="center">
