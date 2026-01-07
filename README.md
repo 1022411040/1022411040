@@ -1,7 +1,8 @@
 <!-- ================= HERO ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=220&section=header&text=Vikas%20Prasad&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:B721FF,100:21D4FD&height=220&section=header&text=Vikas%20Prasad&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+
 
 <p align="center">
 <b>Full-Stack Engineer • Embedded Systems Enthusiast • ECE Core</b><br/>
